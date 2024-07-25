@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\mainexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:mainexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\feedbackscreen\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:feedbackscreen\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\extentreport\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:extentreport\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\dashboardscreen\\dashboad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:dashboardscreen\\dashboad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\loginpage\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:loginpage\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|c:\\users\\zamarkhan\\source\\performanceemployee\\basepage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360E954-0E14-479E-A764-5EA91D45501F}|PerformanceEmployee.csproj|solutionrelative:basepage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basepage.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\BasePage\\Basepage.cs",
+              "RelativeDocumentMoniker": "BasePage\\Basepage.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\BasePage\\Basepage.cs",
+              "RelativeToolTip": "BasePage\\Basepage.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAA0wO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:08:03.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboad.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\DashboardScreen\\Dashboad.cs",
+              "RelativeDocumentMoniker": "DashboardScreen\\Dashboad.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\DashboardScreen\\Dashboad.cs",
+              "RelativeToolTip": "DashboardScreen\\Dashboad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAC7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:27:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\LoginPage\\Loginpage.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\LoginPage\\Loginpage.cs",
+              "RelativeToolTip": "LoginPage\\Loginpage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:20:38.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\FeedbackScreen\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedbackScreen\\Feedback.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\FeedbackScreen\\Feedback.cs",
+              "RelativeToolTip": "FeedbackScreen\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:48:58.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainExecution.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\MainExecution.cs",
+              "RelativeDocumentMoniker": "MainExecution.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\MainExecution.cs",
+              "RelativeToolTip": "MainExecution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:18:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extentreport.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\ExtentReport\\Extentreport.cs",
+              "RelativeDocumentMoniker": "ExtentReport\\Extentreport.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\PerformanceEmployee\\ExtentReport\\Extentreport.cs",
+              "RelativeToolTip": "ExtentReport\\Extentreport.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:01:18.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

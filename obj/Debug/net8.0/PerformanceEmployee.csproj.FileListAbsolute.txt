@@ -1,0 +1,884 @@
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\testhost.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\testhost.exe
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\node\LICENSE
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\api.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\PrintDeps.exe
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\README.md
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\browsers.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\cli.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.d.ts
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.mjs
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\androidServerImpl.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\browserServerImpl.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\accessibility.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\android.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\api.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\artifact.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browserContext.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browserType.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\cdpSession.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\channelOwner.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clientHelper.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clientInstrumentation.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clock.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\connection.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\consoleMessage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\coverage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\dialog.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\download.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\electron.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\elementHandle.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\errors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\events.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\fetch.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\fileChooser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\frame.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\harRouter.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\input.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\jsHandle.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\jsonPipe.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\localUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\locator.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\network.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\page.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\playwright.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\selectors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\stream.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\tracing.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\types.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\video.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\waiter.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\webError.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\worker.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\writableStream.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\driver.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\program.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\programWithTestStub.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\socksProxy.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\timeoutSettings.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\types.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\clockSource.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\consoleApiSource.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\injectedScriptSource.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\recorderSource.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\utilityScriptSource.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\colorUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\compare.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\imageChannel.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\stats.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\inprocess.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\inProcessFactory.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\outofprocess.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\debug.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\serializers.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\transport.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\validator.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\validatorPrimitives.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightConnection.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightServer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\accessibility.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\android\android.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\android\backendAdb.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\artifact.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browserContext.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browserType.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\appIcon.png
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromium.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromiumSwitches.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crAccessibility.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crBrowser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crConnection.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crCoverage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDevTools.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDragDrop.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crInput.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPdf.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\videoRecorder.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\clock.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\console.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\cookieStore.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\debugController.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\debugger.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dialog.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dom.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\download.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\electron\electron.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\electron\loader.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\errors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fetch.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fileChooser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fileUploadUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffBrowser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffConnection.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffInput.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffPage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\firefox.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\formData.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\frames.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\frameSelectors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\har\harRecorder.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\har\harTracer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\helper.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\index.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\input.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\instrumentation.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\javascript.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\launchApp.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\macEditingCommands.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\network.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\page.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\pipeTransport.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\playwright.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\progress.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\protocolError.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\codeGenerator.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\csharp.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\java.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\javascript.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\jsonl.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\language.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\python.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderActions.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderApp.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\utils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\browserFetcher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\dependencies.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\index.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\nativeDeps.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\oopDownloadBrowserMain.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\screenshotter.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\selectors.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\socksInterceptor.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\tracing.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\transport.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\types.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\usKeyboardLayout.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\webkit.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkBrowser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkConnection.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInput.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkPage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkWorkers.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\third_party\diff_match_patch.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\third_party\pixelmatch.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundle.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\index.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\xdg-open
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\ascii.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\comparators.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\crypto.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\debug.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\debugLogger.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\env.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\eventsHelper.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\fileUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\glob.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\happy-eyeballs.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\headers.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\hostPlatform.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\httpServer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\index.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssParser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssTokenizer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorGenerators.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorParser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\selectorParser.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\traceUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\linuxUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\manualPromise.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\mimeType.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\multimap.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\network.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncher.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\profiler.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\rtti.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\semaphore.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\spawnAsync.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\stackTrace.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\task.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\time.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\timeoutRunner.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\traceUtils.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\userAgent.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\wsServer.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\zipFile.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\zones.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\htmlReport\index.html
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-Bzggq412.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-ez37Vkbh.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codicon-DMa5iZz2.ttf
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-5SSs4-n_.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-B5iDPo7P.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\index.html
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\playwright-logo.svg
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\codeMirrorModule-BfR9u_dG.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\testServerConnection-CLJOcN3M.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\xtermModule-BeNbaIVa.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codeMirrorModule.ez37Vkbh.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codicon.DMa5iZz2.ttf
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.CrbWWHbf.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.D7JIa5vL.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.html
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\playwright-logo.svg
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\snapshot.html
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\sw.bundle.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\testServerConnection.0WapKERv.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.Btn2TM9w.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.DGx1ltIi.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.html
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\xtermModule.DSXBckUd.css
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\zipBundle.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\zipBundleImpl.js
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\LICENSE
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\NOTICE
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\package.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\protocol.yml
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\README.md
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\ThirdPartyNotices.txt
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\protocol.d.ts
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\types.d.ts
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\playwright.ps1
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.deps.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.runtimeconfig.json
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.pdb
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.NUnit.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.TestAdapter.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.csproj.AssemblyReference.cache
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.AssemblyInfoInputs.cache
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.AssemblyInfo.cs
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\Performa.954994E9.Up2Date
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\refint\PerformanceEmployee.dll
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.pdb
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.genruntimeconfig.cache
+C:\Users\Humza Ali\source\repos\PerformanceEmployee\obj\Debug\net8.0\ref\PerformanceEmployee.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\testhost.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\testhost.exe
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\node\LICENSE
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\api.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\PrintDeps.exe
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\README.md
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\browsers.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\cli.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.d.ts
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\index.mjs
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\androidServerImpl.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\browserServerImpl.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\accessibility.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\android.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\api.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\artifact.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browserContext.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\browserType.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\cdpSession.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\channelOwner.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clientHelper.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clientInstrumentation.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\clock.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\connection.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\consoleMessage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\coverage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\dialog.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\download.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\electron.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\elementHandle.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\errors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\events.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\fetch.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\fileChooser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\frame.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\harRouter.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\input.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\jsHandle.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\jsonPipe.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\localUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\locator.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\network.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\page.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\playwright.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\selectors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\stream.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\tracing.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\types.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\video.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\waiter.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\webError.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\worker.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\client\writableStream.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\driver.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\program.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\cli\programWithTestStub.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\socksProxy.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\timeoutSettings.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\common\types.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\clockSource.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\consoleApiSource.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\injectedScriptSource.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\recorderSource.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\generated\utilityScriptSource.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\colorUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\compare.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\imageChannel.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\image_tools\stats.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\inprocess.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\inProcessFactory.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\outofprocess.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\debug.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\serializers.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\transport.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\validator.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\protocol\validatorPrimitives.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightConnection.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightServer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\accessibility.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\android\android.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\android\backendAdb.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\artifact.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browserContext.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\browserType.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\appIcon.png
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromium.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromiumSwitches.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crAccessibility.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crBrowser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crConnection.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crCoverage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDevTools.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDragDrop.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crInput.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPdf.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\chromium\videoRecorder.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\clock.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\console.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\cookieStore.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\debugController.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\debugger.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dialog.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\dom.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\download.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\electron\electron.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\electron\loader.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\errors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fetch.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fileChooser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\fileUploadUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffBrowser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffConnection.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffInput.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffPage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\firefox\firefox.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\formData.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\frames.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\frameSelectors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\har\harRecorder.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\har\harTracer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\helper.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\index.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\input.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\instrumentation.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\javascript.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\launchApp.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\macEditingCommands.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\network.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\page.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\pipeTransport.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\playwright.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\progress.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\protocolError.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\codeGenerator.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\csharp.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\java.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\javascript.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\jsonl.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\language.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\python.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderActions.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderApp.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\recorder\utils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\browserFetcher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\dependencies.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\index.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\nativeDeps.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\registry\oopDownloadBrowserMain.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\screenshotter.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\selectors.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\socksInterceptor.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\tracing.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\transport.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\types.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\usKeyboardLayout.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\webkit.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkBrowser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkConnection.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInput.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkPage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkWorkers.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\third_party\diff_match_patch.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\third_party\pixelmatch.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundle.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\index.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\xdg-open
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\ascii.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\comparators.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\crypto.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\debug.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\debugLogger.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\env.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\eventsHelper.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\fileUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\glob.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\happy-eyeballs.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\headers.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\hostPlatform.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\httpServer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\index.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssParser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssTokenizer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorGenerators.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorParser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\selectorParser.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\traceUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\linuxUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\manualPromise.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\mimeType.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\multimap.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\network.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncher.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\profiler.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\rtti.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\semaphore.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\spawnAsync.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\stackTrace.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\task.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\time.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\timeoutRunner.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\traceUtils.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\userAgent.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\wsServer.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\zipFile.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\utils\zones.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\htmlReport\index.html
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-Bzggq412.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-ez37Vkbh.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codicon-DMa5iZz2.ttf
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-5SSs4-n_.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-B5iDPo7P.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\index.html
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\playwright-logo.svg
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\codeMirrorModule-BfR9u_dG.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\testServerConnection-CLJOcN3M.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\xtermModule-BeNbaIVa.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codeMirrorModule.ez37Vkbh.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codicon.DMa5iZz2.ttf
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.CrbWWHbf.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.D7JIa5vL.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.html
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\playwright-logo.svg
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\snapshot.html
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\sw.bundle.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\testServerConnection.0WapKERv.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.Btn2TM9w.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.DGx1ltIi.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.html
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\xtermModule.DSXBckUd.css
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\zipBundle.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\lib\zipBundleImpl.js
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\LICENSE
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\NOTICE
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\package.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\protocol.yml
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\README.md
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\ThirdPartyNotices.txt
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\protocol.d.ts
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\.playwright\package\types\types.d.ts
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\playwright.ps1
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.deps.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.runtimeconfig.json
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\PerformanceEmployee.pdb
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ExtentReports.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.NUnit.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.Playwright.TestAdapter.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\RazorEngine.NetCore.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\bin\Debug\net8.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.csproj.AssemblyReference.cache
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.AssemblyInfoInputs.cache
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.AssemblyInfo.cs
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.csproj.CoreCompileInputs.cache
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\Performa.954994E9.Up2Date
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\refint\PerformanceEmployee.dll
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.pdb
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\PerformanceEmployee.genruntimeconfig.cache
+C:\Users\ZamarKhan\source\PerformanceEmployee\obj\Debug\net8.0\ref\PerformanceEmployee.dll
